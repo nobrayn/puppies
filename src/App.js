@@ -3,7 +3,6 @@ import './App.css';
 
 import DisplayPhotos from './DisplayPhotos';
 import Form from './Form';
-const banana = 'creamPie';
 
 function App() {
   // state item
